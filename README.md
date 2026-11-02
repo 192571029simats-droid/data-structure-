@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SIMATS - Data Structures
 
 A collection of C programming programs, algorithm implementations, and practice problems for learning data structures and improving problem-solving skills.
@@ -82,3 +83,7 @@ This repository serves as a learning resource for C programming, data structures
 ---
 
 **Maintained by [Vimal4hckr](https://github.com/Vimal4hckr)**
+=======
+# data-structure-
+DS
+>>>>>>> bce27c373c464c17bf73107dc7a2f883ce98d694
